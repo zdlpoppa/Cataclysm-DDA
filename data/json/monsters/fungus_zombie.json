@@ -399,7 +399,7 @@
   {
     "id": "mon_zombie_rot_fungal",
     "type": "MONSTER",
-    "name": { "str": "fungal Rotter" },
+    "name": { "str": "fungal rotter" },
     "description": "The rotten skin that flakes from the host's body seems to be covered in tiny blue dots; occasional popping and crackling sounds are heard, like cracking wood. this corpse can't be descerned as human by naked eye.",
     "default_faction": "fungus",
     "bodytype": "human",
@@ -431,7 +431,7 @@
   {
     "id": "mon_zombie_tough_fungal",
     "type": "MONSTER",
-    "name": { "str": "Fungal Bulk." },
+    "name": { "str": "fungal bulk." },
     "description": "This terrifying fungal construct seems to have lost all facial features, it's face covered in thick fungal sprouts. it's arms end in jagged points as fungal tendrils burst forth.",
     "default_faction": "fungus",
     "bodytype": "human",
@@ -515,7 +515,7 @@
   {
     "id": "mon_zombie_fat_fungus",
     "type": "MONSTER",
-    "name": { "str": "fungal Lard" },
+    "name": { "str": "fungal lard" },
     "description": "Thousands apon thousands of fungal bulbs, sprouts and tendrils jut out from every angle of this walking carcass. Large patches of yellow pulsating mold seem to be growing in the zombie's fat folds.",
     "default_faction": "fungus",
     "bodytype": "human",
@@ -585,7 +585,7 @@
   {
     "id": "mon_zombie_dog_fungus",
     "type": "MONSTER",
-    "name": { "str": "Fungal dog" },
+    "name": { "str": "fungal dog" },
     "description": "The deformed, animated, and again reanimated corpse of a what looked like the concept of a canine. It's lost almost all of it's dog-like features, except for it's constant aggressive growling, and tendency to bite. It shakes it's fur like a wet dog, sending tiny spore clouds everywhere.",
     "default_faction": "fungus",
     "bodytype": "dog",
@@ -700,7 +700,7 @@
   {
     "id": "mon_zombie_horse_fungus",
     "type": "MONSTER",
-    "name": { "str": " Rotten fungal horse" },
+    "name": { "str": " rotten fungal horse" },
     "description": "This hulking horse-figure seems to re-learn galloping with every step, as large fungi cling and sprout off of it's mane. It travels towards anything moving, even though in the center of each eye lies multiple fungi blooms.",
     "default_faction": "fungus",
     "bodytype": "horse",
