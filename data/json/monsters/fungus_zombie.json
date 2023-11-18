@@ -400,7 +400,7 @@
     "id": "mon_zombie_rot_fungal",
     "type": "MONSTER",
     "name": { "str": "fungal rotter" },
-    "description": "The rotten skin that flakes from the host's body seems to be covered in tiny blue dots; occasional popping and crackling sounds are heard, like cracking wood. this corpse can't be descerned as human by naked eye.",
+    "description": "The rotten skin that flakes from the host's body seems to be covered in tiny blue dots; occasional popping and crackling sounds are heard, like cracking wood. this corpse can't be discerned as human by the naked eye.",
     "default_faction": "fungus",
     "bodytype": "human",
     "species": [ "FUNGUS" ],
