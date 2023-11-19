@@ -432,7 +432,7 @@
     "id": "mon_zombie_tough_fungal",
     "type": "MONSTER",
     "name": { "str": "fungal bulk." },
-    "description": "This terrifying fungal construct seems to have lost all facial features, it's face covered in thick fungal sprouts. it's arms end in jagged points as fungal tendrils burst forth.",
+    "description": "This terrifying fungal construct seems to have lost all facial features, it's face covered in thick fungal sprouts.  It's arms end in jagged points as fungal tendrils burst forth.",
     "default_faction": "fungus",
     "bodytype": "human",
     "species": [ "FUNGUS" ],
