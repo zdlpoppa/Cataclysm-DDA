@@ -515,7 +515,7 @@
   {
     "id": "mon_zombie_fat_fungus",
     "type": "MONSTER",
-    "name": { "str": "fungal lard" },
+    "name": { "str": "fungal feeder" },
     "description": "Thousands apon thousands of fungal bulbs, sprouts and tendrils jut out from every angle of this walking carcass.  Large patches of yellow pulsating mold seem to be growing in the zombie's fat folds.",
     "default_faction": "fungus",
     "bodytype": "human",
