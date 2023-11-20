@@ -586,7 +586,7 @@
     "id": "mon_zombie_dog_fungus",
     "type": "MONSTER",
     "name": { "str": "fungal dog" },
-    "description": "The deformed, animated, and again reanimated corpse of a what looked like the concept of a canine.  It's lost almost all of it's dog-like features, except for its constant aggressive growling, and tendency to bite. It shakes its fur like a wet dog, sending tiny spore clouds everywhere.",
+    "description": "The deformed, animated, and again reanimated corpse of a what looked like the concept of a canine.  It's lost almost all of it's dog-like features, except for its constant aggressive growling, and tendency to bite.  It shakes its fur like a wet dog, sending tiny spore clouds everywhere.",
     "default_faction": "fungus",
     "bodytype": "dog",
     "species": [ "FUNGUS" ],
